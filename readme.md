@@ -175,7 +175,7 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Handle Back Button Pressed | WillPopScope Widget](https://youtu.be/fYBCzgBRkb4)[![watch](image/youtube.png)](https://youtu.be/fYBCzgBRkb4)
 
-1.  [Flutter: Programatically Check Whether Debug OR Release Mode]()[![watch](image/youtube.png)](https://youtu.be/xyVXbNMJoIk)
+1.  [Flutter: Programatically Check Whether Debug OR Release Mode](https://www.youtube.com/watch?v=xyVXbNMJoIk)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=xyVXbNMJoIk)
 
 1.  [Flutter: Make New Gmail Like FloatingActionButton](https://github.com/iampawan/Flutter-UI-Kit)[![watch](image/youtube.png)](https://youtu.be/fiOAAiZ41Zs)
 
@@ -194,6 +194,8 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter: WhatsApp Clone Status View | Story View Feature Tutorial](https://github.com/iampawan/FlutterWhatsAppClone)[![watch](image/youtube.png)](https://youtu.be/qDqRbai9VmU)
 
 1.  [Making Ubuntu like terminal in Flutter](https://github.com/iampawan/FlutterWhatsAppClone)[![watch](image/youtube.png)](https://youtu.be/kKsVdFPcoNY)
+
+1.  [Westlife Using Flutter](https://github.com/renjingkai/WestlifeUsingFlutter)
 
 ## Advanced
 
